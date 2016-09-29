@@ -1,44 +1,85 @@
 - title: Lead Developer
   organisation: Sysart Oy
   dates: Since April 2016
-  description: TODO
+  description: >
+    I lead a five-person team that develops three separate projects for a single client.
+    The largest of these projects is a highly customized e-commerce platform built on top of Magento and
+    tightly integrated with the client’s warehouse management system.
 
 - title: Software Developer
   organisation: CGI Suomi Oy
   dates: August 2015 - March 2016
-  description: TODO
+  description: >
+    Our team provided services to the Legal Register Centre.
+    Most of my work had to do with AngularJS and test automation:
+    We were in the process of modernizing a large public sector ERP with a new web frontend.
+    The job also involved a fair share of work with the legacy code both server side and with the desktop application.
 
 - title: Alternative Military Service
   organisation: Töölön Yhteiskoulu ja Aikuislukio
   dates: August 2014 - July 2015
-  description: TODO
-
-- title: B.Sc. in Software Engineering
-  organisation: Metropolia University of Applied Sciences
-  dates: Graduated June 2015
-  description: TODO
+  description: >
+    I acted as a substitute teacher in a wide variety of subjects and assisted in the daily operations.
+    The latter involved everything from technical support to physical labor.
 
 - title: Software Developer
   organisation: goMob Finland Oy
   dates: April 2011 - May 2014
-  description: TODO
+  description: >
+      I joined a group of colleagues from NetBooster to create a technology start-up centered around mobile marketing.
+      My most notable project was designing and developing – alone at first though other developers joined the project later – a content management system specialized for creating mobile websites and applications.
+      Other common tasks involved Android programming, responsive website projects and simple Facebook apps.
 
 - title: Web Developer and SEO Consultant
   organisation: June 2010 - March 2011
   dates: NetBooster Finland Oy
-  description: TODO
+  description: >
+    I provided consulting related to the findability, accessibility and conversion of websites.
+    The work involved analyzing the internal architecture and semanticality of websites and also external data such as web analytics and keyword rankings.
+    There were also occasional website projects and development of in-house tools for data collection.
+
+- title: Part-Time Teacher, ICT
+  organisation: KEUDA Vocational College
+  dates: August 2010 - May 2011
+  description: >
+     After graduating from KEUDA and starting my college studies, one of my old teachers contacted me and asked if I would like to teach a few courses at KEUDA.
+     That paid well so I planned, taught and graded a total of five courses in web development, multimedia and information systems.
+     After one year I decided I had too many things going on at the same time (studies, goMob start-up, teaching...) and decided to drop it.
+
+- title: B.Sc. in Software Engineering
+  organisation: Metropolia University of Applied Sciences
+  dates: 2008 - 2015
+  description: >
+    After graduating with a vocational degree, I felt like I wanted more. I applied to Metropolia to study software engineering.
+    For several years my studying progressed at varying speeds as I spent a lot more time working than I did studying.
+    Spring 2015 I finished my last course and got my engineering degree.
 
 - title: Internet Marketing Assistant
   organisation: Estime Oy
   dates: April 2008 - December 2008
-  description: TODO
+  description: >
+    The last internship related to my vocational studies turned into a summer job and then a part time job at a digital marketing agency.
+    In practice this meant mostly website maintenance and some basic search engine optimization for small clients.
+    I quit after first semester in college, deciding I wanted to concentrate on studying (though that decision would not last long).
 
-- title: Vocational Degree in ICT
-  organisation: KEUDA
-  dates: Graduated June 2008
-  description: TODO
+- title: Vocational Studies and tech support
+  organisation: KEUDA Vocational College
+  dates: 2005-2008
+  description: >
+    By 15 years old I was so certain of my career choice that I decided to pursue a vocational degree in ICT (datanomi).
+    During the next three years I went through a range of mostly tech support related internships and summers jobs.
 
-- title: Misc. Techie stuff
-  organisation: Various employers
-  dates: 2005 - 2008
-  description: TODO
+- title: Early hobby projects
+  organisation: Junior High
+  dates: 2003-2005
+  description: >
+    I published my first project at 13 years old: pelihamsteri.net, a static html and table layout based game review site.
+    At this time I started looking into some basic PHP and MySQL but especially databases still seemed a bit complicated.
+
+- title: Childhood dreams
+  organisation: Me, myself and I
+  dates: First 12 years of my life
+  description: >
+    As a child of a Software Architect I have never really even considered other careers.
+    One of my oldest memories is from school yard, saying that I want to be a hacker when I grow up.
+    I started going to Assembly.org and asked my dad to teach me coding sometime around 12 years old.

@@ -3,10 +3,32 @@
 ---
 @charset "utf-8";
 
-$background-one: #f4f4f4;
-$background-two: #ffffff;
-$accent-color: #3385FF;
+$colorMain: #672770;
+$colorSupportA: #310138;
+$colorSupportB: #4C1054;
+$colorSupportC: #83488C;
+$colorSupportD: #A171A8;
+$colorComplementary: #98A638;
 
+/* Colour themes */
+#banner, #originStory {
+    background-color: $colorMain;
+    color: white;
+}
+
+.vertical-timeline-block {
+    color: $colorMain;
+}
+
+.vertical-date {
+    color: $colorSupportD;
+}
+
+.accent-bg {
+    background-color: $colorSupportD;
+}
+
+/* Layout */
 #banner {
     font-family: 'Gloria Hallelujah', cursive;
     height: 7em;
@@ -18,13 +40,4 @@ $accent-color: #3385FF;
     -webkit-justify-content: center;
             justify-content: center;
     text-align: center;
-    background-color: $background-one;
-}
-
-#originStory {
-    background-color: $background-one;
-}
-
-.accent-bg {
-    background-color: $accent-color;
 }
